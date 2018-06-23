@@ -5,3 +5,7 @@ Try both the bagging and random forest models on the Telecom dataset. Remember, 
 Remember also to tune the relevant parameters of both Bagging and RF (number of trees, min_samples split etc.) 
 
 For next week, please bring this completed notebook so we can review in class. 
+
+** 23rd June ** 
+
+Guys, please fit the RF and GradientBoostingregressor on the Boston Housing dataset and tune with the help of GridSearchCV.
